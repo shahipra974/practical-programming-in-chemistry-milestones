@@ -10,12 +10,12 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Github Account Created                      | https://github.com/shahipra974                                   | 
 | 1    | Github Profile Page                         | https://github.com/shahipra974/shahipra974                                      |
 | 1    | Commit and Push Change from Command Line    | https://github.com/shahipra974/ppchem/commit/119c13523c5caeb4bf0efa11b6b97861181c7ea7                |
-| 1    | Create a New Branch                         | https://github.com/`username`/`repo-name`/tree/`new-branch-name`            |
+| 1    | Create a New Branch                         | https://github.com/shahipra974/ppchem/tree/course1            |
 | 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml`      |
-| 1    | Fork a Repo                                 | https://github.com/`username`/practical-programming-in-chemistry-milestones |
+| 1    | Fork a Repo                                 | https://github.com/shahipra974/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
-| 4    | Update `env.yml` via a Pull Request         | https://github.com/`username`/practical-programming-in-chemistry-milestones/pull/`pull-request-number` |
+| 4    | Update `env.yml` via a Pull Request         | https://github.com/shahipra974/practical-programming-in-chemistry-milestones/pull/`pull-request-number` |
 
 **More milestones will be added throughout the course.**
 
