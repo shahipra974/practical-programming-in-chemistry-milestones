@@ -14,7 +14,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Create a conda environment                  | https://github.com/shahipra974/ppchem/blob/course1/env.yml      |
 | 1    | Fork a Repo                                 | https://github.com/shahipra974/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | https://github.com/shahipra974/ppchem/pull/5
-| 2    | (Optional) Review a Pull Request            | https://github.com/shahipra974/ppchem/pull/5/files
+| 2    | (Optional) Review a Pull Request            | [https://github.com/shahipra974/ppchem/pull/5/files](https://github.com/shahipra974/ppchem/pull/5#pullrequestreview-2073452999)
 | 4    | Update `env.yml` via a Pull Request         | https://github.com/shahipra974/ppchem/pull/2
 
 **More milestones will be added throughout the course.**
